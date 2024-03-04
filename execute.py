@@ -1,3 +1,10 @@
+# Deep Graph Infomax for classification task in Cora
+# Paper: Deep Graph Infomax (ICLR 2019)
+# Test Accuracy: 0.8120
+# Runtime: 25.0309s on a 8GB GPU (NVIDIA(R) GeForce RTX(TM) 3060Ti)
+# Cost: N/A
+# Description: Paper Reproduction. Simply apply Deep Graph Infomax to Cora.
+
 import numpy as np
 import scipy.sparse as sp
 import torch
@@ -5,6 +12,10 @@ import torch.nn as nn
 
 from models import DGI, LogReg
 from utils import process
+
+
+
+
 
 dataset = 'cora'
 

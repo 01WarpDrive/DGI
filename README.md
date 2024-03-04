@@ -1,6 +1,9 @@
 # DGI
 Deep Graph Infomax (Veličković *et al.*, ICLR 2019): [https://arxiv.org/abs/1809.10341](https://arxiv.org/abs/1809.10341)
 
+2024/03/04 
+Replaced some of the outdated syntax: scipy, torch
+
 ![](https://camo.githubusercontent.com/f62a0b987d8a1a140a9f3ba14baf4caa45dfbcad/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f757a783779677761637a76747031302f646565705f67726170685f696e666f6d61782e706e673f7261773d31)
 
 ## Overview
